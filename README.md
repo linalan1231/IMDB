@@ -43,6 +43,8 @@ The dataset has been loaded into an S3 bucket with the following files:
 - `averageRating` (float): Weighted average of all the individual user ratings.
 - `numVotes` (int): Number of votes the title has received.
 
-## Cluster and Notebook Configuration
-![Cluster Configuration](<img width="481" alt="image" src="https://github.com/linalan1231/IMDB/assets/70352593/acf30f48-4e5b-458d-9283-2d4df4bbafb1">)
-![Notebook Configuration](<img width="357" alt="image" src="https://github.com/linalan1231/IMDB/assets/70352593/b017ebfe-9193-4e0d-87fb-5c7d42d19a3d">)
+## Cluster and Notebook Configuration (click on link for configuration)  
+[Cluster Configuration](https://github.com/linalan1231/IMDB/assets/70352593/acf30f48-4e5b-458d-9283-2d4df4bbafb1)  
+[Notebook Configuration](https://github.com/linalan1231/IMDB/assets/70352593/b017ebfe-9193-4e0d-87fb-5c7d42d19a3d)
+
+
