@@ -44,7 +44,7 @@ The dataset has been loaded into an S3 bucket with the following files:
 - `numVotes` (int): Number of votes the title has received.
 
 ## Cluster Configuration
-Cluster Configuration: [Cluster Config Image](https://github.com/linalan1231/IMDB/assets/70352593/61089b03-c3f7-4724-9f95-188314b34336)
+![Cluster Configuration](https://github.com/linalan1231/IMDB/blob/assets/70352593/61089b03-c3f7-4724-9f95-188314b34336.png)
 
 ## Notebook Configuration
-Notebook Configuration Detail: [Notebook Config Image](https://github.com/linalan1231/IMDB/assets/70352593/41209264-5f94-45de-8d30-675e8859bbe5)
+![Notebook Configuration](https://github.com/linalan1231/IMDB/blob/assets/70352593/41209264-5f94-45de-8d30-675e8859bbe5.png)
